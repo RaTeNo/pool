@@ -194,7 +194,7 @@ input[type=radio]:checked+label:after, input[type=checkbox]:checked+label:after 
     content: "";
     position: absolute;
     left: 25px;
-    top: 35px;
+    top: calc(100% / 2 - 4px);
     transform: rotate(-45deg);
 }
 
@@ -298,6 +298,7 @@ input[type=radio]:checked+label:before,input[type=checkbox]:checked+label:before
 
 .start__image {
     margin-bottom: 35px;
+    border-radius: 40px;
 }
 
 .title {

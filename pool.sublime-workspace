@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-color\tproperty"
+			],
+			[
+				"flex-",
+				"flex-wrap\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"al",
+				"align-items\tproperty"
+			],
+			[
+				"ob",
+				"object-fit\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"padding",
+				"padding-bottom\tproperty"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-bottom\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"wor",
+				"word-break\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"bor-",
+				"border-radius\tproperty"
+			],
+			[
+				"f",
+				"fixed\tposition"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"border-bor",
+				"border-bottom-color\tproperty"
+			],
+			[
+				"re",
+				"relative\tposition"
+			],
+			[
+				"bor",
+				"border-radius\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"t",
+				"transition\tproperty"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"slid",
+				"slideUp〔function〕"
+			],
+			[
+				"pay",
+				"pay_method.html"
+			],
+			[
+				"a",
+				"auto\theight"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"modal",
+				"modal_link"
+			],
+			[
+				"insta",
+				"insta"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"parse",
+				"parse_url〔function〕"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"margn",
+				"margin-bottom\tproperty"
+			],
+			[
+				"quer",
+				"querySelector"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"margin",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ma",
+				"margin\tproperty"
+			],
+			[
+				"cur",
+				"cursor\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"sli",
+				"slideDown〔function〕"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"live",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"livereloa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/шлак 2020/pool"
+	],
+	"file_history":
+	[
+		"/E/шлак 2020/pool/index.html",
+		"/C/xampp/htdocs/hosting/wp-content/themes/raten/header.php",
+		"/C/xampp/htdocs/hosting/wp-content/themes/raten/functions.php",
+		"/C/xampp/htdocs/hosting/wp-content/themes/raten/page-money.php",
+		"/E/Шлак 2021/барановский 2/Психологические тесты онлайн.html",
+		"/E/Шлак 2021/барановский 2/Психологические тесты онлайн_files/common.css",
+		"/E/Шлак 2021/pool/css/style.css",
+		"/C/xampp/htdocs/vers8/index.php",
+		"/C/xampp/htdocs/vers8/css/warning.css",
+		"/E/Шлак 2021/pool/index.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-money.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-review.php",
+		"/E/Шлак 2021/schema/includes/extensions/breadcrumbs.php",
+		"/E/Шлак 2021/schema/includes/misc-functions.php",
+		"/E/Шлак 2021/schema/includes/json/web-page-element.php",
+		"/E/Шлак 2021/schema/includes/extensions/post-meta-generator.php",
+		"/E/Шлак 2021/schema/includes/extensions/video-object.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/misc-functions.php",
+		"/E/Шлак 2021/schema/includes/json/schema-output.php",
+		"/E/Шлак 2021/schema/includes/admin/post-type/schema-post-type.php",
+		"/E/Шлак 2021/schema/includes/admin/settings/contextual-help.php",
+		"/E/Шлак 2021/schema/includes/admin/extensions.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/form.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-about.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-home.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/styles.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-reviews.php",
+		"/C/xampp/htdocs/hosting/wp-content/themes/raten/images/soc4_2.svg",
+		"/C/xampp/htdocs/hosting/wp-content/themes/raten/images/soc3_2.svg",
+		"/C/xampp/htdocs/hosting/wp-content/themes/raten/images/soc2_2.svg",
+		"/C/xampp/htdocs/hosting/wp-content/themes/raten/images/soc1_2.svg",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/comments.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 3.php",
+		"/C/Users/RaTeN/Downloads/raten.ftp_settings.xml",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer.php",
+		"/E/Шлак 2021/Gastrobar/Новая папка (3)/css/stylenew.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 7.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 6.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DRa15960.21962/index.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DRa15960.17827/js/scripts.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DRa15960.18292/js/functions.js",
+		"/E/Шлак 2021/Gastrobar/Новая папка (2)/js/script.js",
+		"/C/xampp/htdocs/leon2/wp-content/themes/raten/index.html",
+		"/C/xampp/htdocs/leon2/wp-content/themes/raten/header.php",
+		"/C/xampp/htdocs/leon2/wp-content/themes/raten/functions.php",
+		"/C/xampp/htdocs/leon2/wp-content/themes/raten/css/style.min.css",
+		"/C/xampp/htdocs/leon2/wp-content/themes/raten/page-home.php",
+		"/C/xampp/htdocs/leon/wp-content/themes/raten/functions.php",
+		"/E/Работа 2020/Фишки/Блинов/functions.php",
+		"/C/xampp/htdocs/leon2/wp-content/themes/raten/single.php",
+		"/C/xampp/htdocs/leon2/wp-content/themes/raten/footer.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single 6.php",
+		"/E/Шлак 2021/Gastrobar/Новая папка (2)/css/stylenew.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category-4.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 8.php",
+		"/E/Шлак 2021/Gastrobar/Новая папка (2)/css/jquery.fancybox.min.css",
+		"/E/Шлак 2021/Gastrobar/Новая папка (2)/css/style.css",
+		"/E/Шлак 2021/Gastrobar/Новая папка/index.html",
+		"/E/Шлак 2021/Gastrobar/Новая папка/css/style.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/new.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/quato-count.php",
+		"/E/Шлак 2021/Gastrobar/index.html",
+		"/E/Шлак 2021/Gastrobar/css/style.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-about 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-contact 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 6.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style 3.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single 3.php",
+		"/E/шлак 2020/sig/sig/new/about.html",
+		"/E/шлак 2020/sig/sig/new/contacts.html",
+		"/E/Шлак 2021/evo_service/page-contacts.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single-fight.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/robots.txt",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/robots 2.txt",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 5.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/newstyle.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single 5.php",
+		"/E/Шлак 2021/mma/parts/taxonomy-forecast/taxonomy-forecast.php",
+		"/E/Шлак 2021/mma/functions/fight-forecast.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-forecast 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-forecast.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/taxonomy-tournaments.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/wp-config 4.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/archive-fight.php",
+		"/E/Шлак 2021/mma/parts/archive-fight/archive-fight-item-tournament.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 12.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DIa11312.4525/index.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/main.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/scripts 6.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/single 4.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-home 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/video 2.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 4.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/video.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/main 2.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/pageс-cart.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/provider.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 6.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/Rar$DRa24336.22533/var/www/html/wp-content/themes/raten/js/main.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/header 5.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/wp-config 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/wp-config 3.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/bundle.js",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style 6.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category-1 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/category 2.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/style 4.css",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/index 3.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/get-price.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/welcome.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer-postavki.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-vakansii.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer-vakansii.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/footer 5.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-main.php",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/custom.js",
+		"/C/Users/RaTeN/Downloads/Промокоды и Скидки на хостинг, акции, купоны._files/script.js.Без названия",
+		"/C/Users/RaTeN/Downloads/Промокоды и Скидки на хостинг, акции, купоны._files/script.js",
+		"/C/Users/RaTeN/Downloads/Промокод 1xBet на сегодня 6500 р.🎁 Промокод 1ХБет при регистрации.html",
+		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 11.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 58.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.nodejs":
+	{
+		"height": 106.0
+	},
+	"pinned_build_system": "",
+	"project": "pool.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\vers2_black\\vers2_black.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
