@@ -220,9 +220,25 @@
 	"buffers":
 	[
 	],
-	"build_system": "",
+	"build_system": "Packages/SASS Build/SASS.sublime-build",
 	"build_system_choices":
 	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS.sublime-build",
+				""
+			]
+		]
 	],
 	"build_varint": "",
 	"command_palette":
@@ -232,6 +248,22 @@
 		"selected_items":
 		[
 			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: SCSS"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
 				"live",
 				"LiveReload: Enable/disable plug-ins"
 			],
@@ -240,16 +272,8 @@
 				"LiveReload: Enable/disable plug-ins"
 			],
 			[
-				"ins",
-				"Package Control: Install Package"
-			],
-			[
 				"remove",
 				"Package Control: Remove Package"
-			],
-			[
-				"insta",
-				"Package Control: Install Package"
 			],
 			[
 				"instal",
@@ -276,11 +300,14 @@
 	},
 	"expanded_folders":
 	[
-		"/E/шлак 2020/pool"
+		"/E/шлак 2020/pool",
+		"/E/шлак 2020/pool/css"
 	],
 	"file_history":
 	[
 		"/E/шлак 2020/pool/index.html",
+		"/E/шлак 2020/pool/css/style.css",
+		"/E/шлак 2020/pool/css/style.scss",
 		"/C/xampp/htdocs/hosting/wp-content/themes/raten/header.php",
 		"/C/xampp/htdocs/hosting/wp-content/themes/raten/functions.php",
 		"/C/xampp/htdocs/hosting/wp-content/themes/raten/page-money.php",
@@ -405,13 +432,11 @@
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/page-main.php",
 		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/custom.js",
 		"/C/Users/RaTeN/Downloads/Промокоды и Скидки на хостинг, акции, купоны._files/script.js.Без названия",
-		"/C/Users/RaTeN/Downloads/Промокоды и Скидки на хостинг, акции, купоны._files/script.js",
-		"/C/Users/RaTeN/Downloads/Промокод 1xBet на сегодня 6500 р.🎁 Промокод 1ХБет при регистрации.html",
-		"/C/Users/RaTeN/AppData/Local/Temp/fz3temp-2/functions 11.php"
+		"/C/Users/RaTeN/Downloads/Промокоды и Скидки на хостинг, акции, купоны._files/script.js"
 	],
 	"find":
 	{
-		"height": 27.0
+		"height": 48.0
 	},
 	"find_in_files":
 	{
@@ -453,7 +478,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 43.0
 	},
 	"layout":
 	{
@@ -484,7 +509,7 @@
 	},
 	"output.exec":
 	{
-		"height": 58.0
+		"height": 332.0
 	},
 	"output.find_results":
 	{
